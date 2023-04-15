@@ -10,7 +10,14 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "id": "7710aded-9290-484a-9f37-01eaad6c9d27",
+      "name": "Common",
+      "publisher": "Freddy",
+      "version": "1.0.0.0"
+    }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "19.0.0.0",
